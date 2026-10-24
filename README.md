@@ -21,7 +21,7 @@ domaine `tytoitures.shop`.
 ## Description de l’activité (Stripe, annuaires…)
 
 ```
-TY Toitures, société de droit belge inscrite à la Banque-Carrefour des Entreprises sous le numéro 1031.232.635, est une entreprise de couverture établie à Liège : pose et rénovation de toitures en tuiles, ardoises et bardeaux, isolation de toiture par l’intérieur ou par l’extérieur, étanchéité des toitures plates et des murs enterrés, et repérage de l’amiante avant tout démontage d’une couverture ancienne. Chaque chantier fait l’objet d’un devis écrit mentionnant ce qui n’est pas compris. Le désamiantage est confié à une entreprise agréée. Site : tytoitures.shop
+We are TY Toitures, a roofing company based in Liège and registered with the Crossroads Bank for Enterprises under enterprise number 1031.232.635. We lay and renovate roofs in tiles, slates and shingles, insulate roofs from the inside or the outside, waterproof flat roofs and retaining walls, and survey for asbestos before any old covering is taken down. We quote every job in writing, stating what is not included, and we check the roof structure before pricing rather than after. Asbestos removal is referred to a licensed firm: we do not break, cut or remove any material that may contain it. Site: tytoitures.shop
 ```
 
 ## Structure
